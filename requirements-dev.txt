@@ -1,0 +1,3 @@
+# Optional development, notebook, and testing dependencies
+pytest>=8.3.0,<9.0.0
+ipykernel>=6.29.0,<7.0.0
